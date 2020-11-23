@@ -99,11 +99,7 @@ This confusion matrix shows us the results of our model. Our resulting accuracy 
 
 # Further Recommendations
 
-## If given more time and resources I would suggest the following
-### * Recruitment of a more diverse officer workforce in Seattle
-###       * There is a lack of female officers
-###       * There is a lack of officers of other races other than white
-### * Better record keeping
-###       * There was a consistent 12,776 rows of missing values or nulls
-### * Research into why certain precincts have more frisks and arrests
-###       * Precinct South and West
+## If given more time and resources I would suggest the following: 
+### - Recruitment of a more diverse officer workforce in Seattle
+### - Better record keeping
+### - Research into why certain precincts have more frisks and arrests
