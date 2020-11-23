@@ -32,19 +32,20 @@ In my project I will be utilizing the Terry Traffic Stops dataset that was provi
 
 ## 1. How does officer and subject race affect stop, frisk, and arrest?
 
-
+![]()
 
 ## 2. Is there a difference in demographics among the different call types?
 
-
+![]()
 
 
 ## 3. How does gender influence stop and arrest?
 
-
+![]()
 
 ## 4. Does carrying a weapon affect subject arrested?
 
+![]()
 
 ## Final Model using XGBoost and hypertuning features
 
@@ -52,4 +53,4 @@ In my project I will be utilizing the Terry Traffic Stops dataset that was provi
 ## Feature Importance
 
 
-
+![featureimp](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/featureimportance.png?raw=true)
