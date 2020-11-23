@@ -32,20 +32,36 @@ In my project I will be utilizing the Terry Traffic Stops dataset that was provi
 
 ## 1. How does officer and subject race affect stop, frisk, and arrest?
 
-![]()
+![offrace](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/offdemos.png?raw=true)
+
+![subjectrace](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/offrace.png?raw=true)
+
+![offracearrest](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/offracearrest.png?raw=true)
+
+![subjectgenderbyrace](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/subgender.png?raw=true)
+
+![subracearrest](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/subracearrest.png?raw=true)
+
+
 
 ## 2. Is there a difference in demographics among the different call types?
 
-![]()
+![calltypes](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/calldemos.png?raw=true)
 
 
 ## 3. How does gender influence stop and arrest?
+
+![genderoffrace](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/genderoffrace.png?raw=true)
+
+![]()
 
 ![]()
 
 ## 4. Does carrying a weapon affect subject arrested?
 
-![]()
+![weaponarrest](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/weaponarrest.png?raw=true)
+
+![weaponfrisk](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/weapontypefrisk.png?raw=true)
 
 ## Final Model using XGBoost and hypertuning features
 
