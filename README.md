@@ -62,7 +62,7 @@ In my project I will be utilizing the Terry Traffic Stops dataset that was provi
 
 ![genderoffrace](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/genderoffrace.png?raw=true)
 
-**As seen from these images there is a great disparity of female police officers in the Seattle police departments. As in most cities around the world half the population is women. This increased male workforce may increase or decrease certain aspects of a stop or arrest.
+**As seen from these images there is a great disparity of female police officers in the Seattle police departments. As in most cities around the world half the population is women. This increased male workforce may increase or decrease certain aspects of a stop or arrest.**
 
 ![officergender](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/officergender.png?raw=true)
 
@@ -92,12 +92,12 @@ This confusion matrix shows us the results of our model. Our resulting accuracy 
 
 ## Conclusions
 
-## Our XGBoost Model worked the best. We used this model to see what features had the greatest importance to our target of arrest flag. 
+### Our XGBoost Model worked the best. We used this model to see what features had the greatest importance to our target of arrest flag. 
 
-## The top features were Weapon Type_None, Precinct_South, Call Type 911, Precinct_West, Subject Perceived Gender, Subject Perceived Race_White. This tells us that possessing a weapon was by far the strongest feature of importance. 
+### The top features were Weapon Type_None, Precinct_South, Call Type 911, Precinct_West, Subject Perceived Gender, Subject Perceived Race_White. This tells us that possessing a weapon was by far the strongest feature of importance. 
 
-## In second was precint south and west This may show us that this area may need to be evaluated for their practices and/or research needs to be done to understand why this area has such a high level of arrest. 
+### In second was precint south and west This may show us that this area may need to be evaluated for their practices and/or research needs to be done to understand why this area has such a high level of arrest. 
 
-## The third feature importance was subject perceived gender. In our EDA we explored this and also found that there is a clear difference in gender. This may show that women are seen as less of a threat to the officers that are evaluating whether to stop them and/or arrest these subjects.
+### The third feature importance was subject perceived gender. In our EDA we explored this and also found that there is a clear difference in gender. This may show that women are seen as less of a threat to the officers that are evaluating whether to stop them and/or arrest these subjects.
 
-## The last feature of importance is seen to be subject perceived race as white. This can indicate that there is also biases happening so that those who are pulled over and white subjects are less likely to be arrested. 
+### The last feature of importance is seen to be subject perceived race as white. This can indicate that there is also biases happening so that those who are pulled over and white subjects are less likely to be arrested. 
