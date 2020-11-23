@@ -87,12 +87,23 @@ This confusion matrix shows us the results of our model. Our resulting accuracy 
 
 ## Conclusions
 
-### Our XGBoost Model worked the best. We used this model to see what features had the greatest importance to our target of arrest flag. 
+### - Our XGBoost Model worked the best. We used this model to see what features had the greatest importance to our target of arrest flag. 
 
-### The top features were Weapon Type_None, Precinct_South, Call Type 911, Precinct_West, Subject Perceived Gender, Subject Perceived Race_White. This tells us that possessing a weapon was by far the strongest feature of importance. 
+### - The top features were Weapon Type_None, Precinct_South, Call Type 911, Precinct_West, Subject Perceived Gender, Subject Perceived Race_White. This tells us that possessing a weapon was by far the strongest feature of importance. 
 
-### In second was precint south and west This may show us that this area may need to be evaluated for their practices and/or research needs to be done to understand why this area has such a high level of arrest. 
+### - In second was precint south and west This may show us that this area may need to be evaluated for their practices and/or research needs to be done to understand why this area has such a high level of arrest. 
 
-### The third feature importance was subject perceived gender. In our EDA we explored this and also found that there is a clear difference in gender. This may show that women are seen as less of a threat to the officers that are evaluating whether to stop them and/or arrest these subjects.
+### - The third feature importance was subject perceived gender. In our EDA we explored this and also found that there is a clear difference in gender. This may show that women are seen as less of a threat to the officers that are evaluating whether to stop them and/or arrest these subjects.
 
-### The last feature of importance is seen to be subject perceived race as white. This can indicate that there is also biases happening so that those who are pulled over and white subjects are less likely to be arrested. 
+### - The last feature of importance is seen to be subject perceived race as white. This can indicate that there is also biases happening so that those who are pulled over and white subjects are less likely to be arrested. 
+
+# Further Recommendations
+
+## If given more time and resources I would suggest the following
+### * Recruitment of a more diverse officer workforce in Seattle
+###       * There is a lack of female officers
+###       * There is a lack of officers of other races other than white
+### * Better record keeping
+###       * There was a consistent 12,776 rows of missing values or nulls
+### * Research into why certain precincts have more frisks and arrests
+###       * Precinct South and West
