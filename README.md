@@ -78,13 +78,8 @@ In my project I will be utilizing the Terry Traffic Stops dataset that was provi
 
 ![xgboostmodel](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/xgboosttuning.png?raw=true)
 
-This confusion matrix shows us the results of our model. Our resulting accuracy and recall score are as follows: Train Accuracy: 0.589, Test Accuracy: 0.597, and the Cross Validation Recall 0.744. 
-
-## Final Model using XGBoost and hypertuning features
-
 ### Our most successful model is our XGBoost mode
-
-![xgboosttuning](https://github.com/rachelbeery/dsc-mod-3-project-v2-1-onl01-dtsc-ft-070620/blob/master/images/xgboosttuning.png?raw=true)
+This confusion matrix shows us the results of our model. Our resulting accuracy and recall score are as follows: Train Accuracy: 0.589, Test Accuracy: 0.597, and the Cross Validation Recall 0.744. 
 
 ## Feature Importance
 
